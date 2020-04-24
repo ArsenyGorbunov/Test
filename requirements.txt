@@ -1,0 +1,10 @@
+opencv-python
+argparse
+filterpy==1.4.5
+numba==0.49.0
+scikit-image==0.14.2
+lap==0.4.0
+imutils
+
+
+
